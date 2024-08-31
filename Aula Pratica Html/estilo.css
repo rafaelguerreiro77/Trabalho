@@ -1,0 +1,51 @@
+h1{
+    color: red;
+    font-style: oblique;
+    font-size: x-large;
+    text-align: center;
+}
+
+.comentario{
+    color: blue;
+    font-size: medium;
+    font-style: italic;
+  }
+
+input[type="text"]{
+   width: 30%;
+   padding: 8px;
+   margin-bottom: 10px;
+   border-radius: 5px;
+   border: 1px solid #b9a5a5;
+   color: green;
+}
+
+input[type="radio"]{
+    font-size: 18px;
+}
+
+input[type="email"]{
+    width: 30%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #b9a5a5;
+    color: red;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.caixa{
+    margin: 10px;
+    padding: 20;
+    border: 5px solid black;
+    width: fit-content;
+    background-color: beige;
+}
+span{
+    font-size: 15px;
+    font-style: oblique;
+    color: crimson;
+}
