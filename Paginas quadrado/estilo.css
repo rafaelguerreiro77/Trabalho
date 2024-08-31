@@ -1,0 +1,51 @@
+.quadrado{
+    border: 3px solid rgb(252, 250, 250);
+    border-color: chartreuse;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: rgb(16, 227, 227);
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.quadrado:hover{
+    background-color: black;
+    border-color: blueviolet;
+    color: aliceblue;
+}
+.quadrado1{
+    top: 50px;
+}
+.quadrado2{
+    lefh: 10px;
+    bottom: 10px;
+    background-color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+
+
+}
+.quadrado2:hover{
+    background-color: rgb(221, 26, 26);
+    border-color: rgb(60, 228, 26);
+    color: rgb(17, 6, 233);
+}
+
+
+.quadrado3{
+    right: 10px;
+    top: 10px;
+    background-color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.quadrado4{
+    right: 10px;
+    bottom: 10px;
+    background-color: green;
+    font-style: oblique;
+    font-family: sans-serif;
+    
+}
